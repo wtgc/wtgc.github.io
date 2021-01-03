@@ -7,7 +7,7 @@
 
 ## Scouts BSA, Venturing, Sea Scout
 
-## List of Approved Sites - TBD
+## List of Approved Sites - [Raw Spreadsheet](https://docs.google.com/spreadsheets/d/1VKzJE6PY5E4CdTA2JaU3SY3xg3tU34K7TLgZDYuaATk/edit?usp=sharing)
 
 ### [Add a site](https://docs.google.com/forms/d/e/1FAIpQLScOkMOMMb76SkBYAZii3Sp6cQX6sZqwL5f5_BSZvb3QKlKU3A/viewform?usp=sf_link)
 
